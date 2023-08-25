@@ -11,17 +11,22 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/\<bin\>
+~MSle0~/\<bin\>
+
+# Last Substitute String:
+$
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692919109,,"wq"
+|2,0,1692935010,,"wq"
 :q
-|2,0,1692832531,,"q"
+|2,0,1692934955,,"q"
 :exit
 |2,0,1692829510,,"exit"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1692932825,,"@$"
 ? \<bin\>
 |2,1,1692918301,,"\\<bin\\>"
 
@@ -32,254 +37,265 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""0	CHAR	0
 	e
-|3,1,36,0,1,0,1692919097,"e"
+|3,1,0,0,1,0,1692932825,"e"
+"-	CHAR	0
+	e
+|3,0,36,0,1,0,1692919097,"e"
 
 # File marks:
-'0  1  0  /.git/COMMIT_EDITMSG
-|4,48,1,0,1692920574,"/.git/COMMIT_EDITMSG"
-'1  2  28  ~/alx-pre_course/0x01-git/bash/alx
-|4,49,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
-'2  1  10  ~/alx-pre_course/0x01-git/bash/school
-|4,50,1,10,1692918382,"~/alx-pre_course/0x01-git/bash/school"
-'3  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,51,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
+'0  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,48,2,12,1692935010,"~/alx-pre_course/0x01-git/bash/school"
+'1  3  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,49,3,0,1692934963,"~/alx-pre_course/0x01-git/bash/alx"
+'2  8  0  ~/alx-pre_course/0x01-git/bash
+|4,50,8,0,1692932855,"~/alx-pre_course/0x01-git/bash"
+'3  2  0  /.git/COMMIT_EDITMSG
+|4,51,2,0,1692932226,"/.git/COMMIT_EDITMSG"
 '4  1  0  /.git/COMMIT_EDITMSG
-|4,52,1,0,1692832531,"/.git/COMMIT_EDITMSG"
-'5  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,53,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
-'6  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,54,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
-'7  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,55,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
-'8  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,56,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
-'9  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,57,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
+|4,52,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+'5  1  0  /.git/COMMIT_EDITMSG
+|4,53,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+'6  1  0  /.git/COMMIT_EDITMSG
+|4,54,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+'7  1  0  /.git/COMMIT_EDITMSG
+|4,55,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+'8  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,56,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+'9  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,57,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
 
 # Jumplist (newest first):
+-'  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,39,2,12,1692935010,"~/alx-pre_course/0x01-git/bash/school"
+-'  1  10  ~/alx-pre_course/0x01-git/bash/school
+|4,39,1,10,1692934972,"~/alx-pre_course/0x01-git/bash/school"
+-'  3  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,3,0,1692934963,"~/alx-pre_course/0x01-git/bash/alx"
+-'  3  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,3,0,1692934963,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692934926,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692934926,"~/alx-pre_course/0x01-git/bash/alx"
+-'  8  0  ~/alx-pre_course/0x01-git/bash
+|4,39,8,0,1692932855,"~/alx-pre_course/0x01-git/bash"
+-'  8  0  ~/alx-pre_course/0x01-git/bash
+|4,39,8,0,1692932855,"~/alx-pre_course/0x01-git/bash"
+-'  8  0  ~/alx-pre_course/0x01-git/bash
+|4,39,8,0,1692932855,"~/alx-pre_course/0x01-git/bash"
+-'  8  0  ~/alx-pre_course/0x01-git/bash
+|4,39,8,0,1692932855,"~/alx-pre_course/0x01-git/bash"
+-'  1  0  ~/alx-pre_course/0x01-git/bash
+|4,39,1,0,1692932729,"~/alx-pre_course/0x01-git/bash"
+-'  1  0  ~/alx-pre_course/0x01-git/bash
+|4,39,1,0,1692932729,"~/alx-pre_course/0x01-git/bash"
+-'  1  0  ~/alx-pre_course/0x01-git/bash
+|4,39,1,0,1692932729,"~/alx-pre_course/0x01-git/bash"
+-'  1  0  ~/alx-pre_course/0x01-git/bash
+|4,39,1,0,1692932729,"~/alx-pre_course/0x01-git/bash"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  2  0  /.git/COMMIT_EDITMSG
+|4,39,2,0,1692932226,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692932163,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692931669,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
+-'  1  0  /.git/COMMIT_EDITMSG
+|4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
 -'  1  0  /.git/COMMIT_EDITMSG
 |4,39,1,0,1692920574,"/.git/COMMIT_EDITMSG"
 -'  2  28  ~/alx-pre_course/0x01-git/bash/alx
 |4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
 -'  2  28  ~/alx-pre_course/0x01-git/bash/alx
 |4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  28  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,28,1692919109,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
 |4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
 |4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  10  ~/alx-pre_course/0x01-git/bash/school
-|4,39,1,10,1692918382,"~/alx-pre_course/0x01-git/bash/school"
--'  1  10  ~/alx-pre_course/0x01-git/bash/school
-|4,39,1,10,1692918382,"~/alx-pre_course/0x01-git/bash/school"
--'  1  10  ~/alx-pre_course/0x01-git/bash/school
-|4,39,1,10,1692918382,"~/alx-pre_course/0x01-git/bash/school"
--'  1  10  ~/alx-pre_course/0x01-git/bash/school
-|4,39,1,10,1692918382,"~/alx-pre_course/0x01-git/bash/school"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  3  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,3,0,1692918250,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  ~/alx-pre_course/0x01-git/bash/bash
-|4,39,1,0,1692917909,"~/alx-pre_course/0x01-git/bash/bash"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
--'  1  0  /.git/COMMIT_EDITMSG
-|4,39,1,0,1692832531,"/.git/COMMIT_EDITMSG"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 -'  7  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,7,0,1692829610,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829523,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  2  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,2,0,1692829510,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
--'  1  0  ~/alx-pre_course/0x01-git/bash/alx
-|4,39,1,0,1692829353,"~/alx-pre_course/0x01-git/bash/alx"
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
+-'  7  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
+-'  7  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
+-'  7  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
+-'  7  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,7,0,1692919072,"~/alx-pre_course/0x01-git/bash/alx"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-pre_course/0x01-git/bash/alx
-	*	1692919100	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	1	10
-	+	2	0
-	+	3	0
-	+	2	28
-
 > ~/alx-pre_course/0x01-git/bash/school
-	*	1692918370	0
-	"	1	10
-	^	1	11
-	.	1	10
+	*	1692935003	0
+	"	2	12
+	^	2	12
+	.	2	11
 	+	1	0
 	+	2	4
 	+	1	10
+	+	2	11
+
+> ~/alx-pre_course/0x01-git/bash/alx
+	*	1692934955	0
+	"	3	0
+	^	3	0
+	.	2	10
+	+	1	10
+	+	2	0
+	+	3	0
+	+	2	10
+
+> /.git/COMMIT_EDITMSG
+	*	1692932212	0
+	"	2	0
+	^	2	0
+	.	1	0
+	+	1	0
 
 > ~/alx-pre_course/0x01-git/bash/bash
 	*	1692918241	0
@@ -289,10 +305,6 @@
 	+	1	10
 	+	1	11
 	+	3	0
-
-> /.git/COMMIT_EDITMSG
-	*	1692832512	0
-	"	1	0
 
 > /alx-pre_course/0x01-git/bash/alx
 	*	1692826878	0
