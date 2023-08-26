@@ -421,3 +421,74 @@ cd ..
 ls
 git commit -m "Initial commit"
 exit
+git clone https:// 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@github.com/Mullerjesus/alx-pre_course.git
+cd
+ls
+cd alx-pre_course
+ls
+rm -r 0x01-git  README.md
+ls
+cd ..
+ls
+cd alx-pre_course
+ls
+git clone https://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@github.com/Mullerjesus/alx-pre_course.git
+echo 'My first readme' > README.md
+cat README.md
+git config --global user.email  mulukeneshetu70@gmail.com
+git config --global user.name Muluken Eshetu
+git add .
+cd
+ls
+cd alx-pre_course
+ls
+rm -r alx-pre_course
+ls
+git add .
+git commit -m 'My first commit'
+git push
+git clone https:// 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@github.com/Mullerjesus/alx-pre_course.git
+clear
+cd
+ls
+cd alx-pre_course
+ls
+rm -r git clone https:// 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@github.com/Mullerjesus/alx-pre_course.git
+rm git clone https:// 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@github.com/Mullerjesus/alx-pre_course.git
+s
+ls
+clear
+cd
+clear
+cd root
+pwd
+ls
+cd alx-pre_course
+ls
+rm -r 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@github.com
+ls
+rm -r README.md
+ls
+clear
+git clone https:// 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@github.com/Mullerjesus/alx-pre_course.git
+git clone https://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@github.com/Mullerjesus/alx-pre_course.git
+echo 'My first readme' > README.md
+cat README.md
+git config --global user.email  mulukeneshetu70@gmail.com
+git config --global user.name Muluken Eshetu
+git add .
+git commit -m 'My first commit'
+cd
+cd alx-pre_course
+ls
+rm -r alx-pre_course  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@github.com
+ls
+git add .
+git commit -m 'My first commit'
+ls
+git add ../.gitconfig
+git add ../.viminfo
+git commit -m 'My first commit'
+clear
+git push
+exit
