@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693538127,,"wq"
+|2,0,1693538822,,"wq"
 :!q
 |2,0,1693523817,,"!q"
 :q
@@ -50,35 +50,43 @@ $
 
 # File marks:
 '0  2  2  ~/0-current_working_directory
-|4,48,2,2,1693538127,"~/0-current_working_directory"
-'1  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,49,2,5,1693537263,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
-'2  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-|4,50,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
-'3  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-|4,51,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
-'4  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,52,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
-'5  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,53,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
-'6  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,54,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+|4,48,2,2,1693538822,"~/0-current_working_directory"
+'1  2  2  ~/0-current_working_directory
+|4,49,2,2,1693538127,"~/0-current_working_directory"
+'2  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+|4,50,2,5,1693537263,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
+'3  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,51,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+'4  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,52,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+'5  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,53,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+'6  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,54,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
 '7  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,55,2,23,1693536146,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
-'8  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,56,2,22,1693536012,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+|4,55,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
+'8  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
+|4,56,2,23,1693536146,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
 '9  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
 |4,57,2,22,1693536012,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
 
 # Jumplist (newest first):
 -'  2  2  ~/0-current_working_directory
+|4,39,2,2,1693538822,"~/0-current_working_directory"
+-'  2  2  ~/0-current_working_directory
 |4,39,2,2,1693538127,"~/0-current_working_directory"
+-'  1  0  ~/0-current_working_directory
+|4,39,1,0,1693537849,"~/0-current_working_directory"
 -'  1  0  ~/0-current_working_directory
 |4,39,1,0,1693537849,"~/0-current_working_directory"
 -'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
 |4,39,2,5,1693537263,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
 -'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
 |4,39,2,5,1693537263,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
+-'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1693537263,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
+-'  2  5  ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1693537263,"~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
@@ -87,6 +95,22 @@ $
 |4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  2  28  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,2,28,1693536959,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1693536809,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1693536809,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1693536809,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
+|4,39,1,0,1693536809,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
 |4,39,1,0,1693536809,"~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
@@ -111,6 +135,38 @@ $
 |4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
 -'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
 |4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  2  33  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,2,33,1693536730,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
+-'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
+|4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
 |4,39,1,0,1693536625,"~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only"
 -'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
@@ -159,6 +215,38 @@ $
 |4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
 -'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
 |4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  22  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,22,1693536571,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
 -'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
 |4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
 -'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
@@ -183,99 +271,11 @@ $
 |4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
 -'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
 |4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  2  27  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,2,27,1693536416,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-|4,39,1,0,1693536245,"~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
--'  2  23  ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-|4,39,2,23,1693536199,"~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group"
 
 # History of marks within files (newest to oldest):
 
 > ~/0-current_working_directory
-	*	1693538121	0
+	*	1693538816	0
 	"	2	2
 	^	2	3
 	.	2	2
